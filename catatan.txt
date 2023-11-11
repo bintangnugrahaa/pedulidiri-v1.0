@@ -1,0 +1,8 @@
+123|Agus|2022-02-22|08:33|Ramayana Depok|32.5 
+123|Agus|2022-01-31|20:56|Monumen Nasional Jakarta|33.5 
+789|Yoga|2022-02-14|22:13|Ramayana Depok|33.5 
+08817232966|Alfin Wahyu Saputra|2022-02-01|03:25|Taman Pahlawan Bandung|32.5 
+123|Agus|2022-02-23|16:10|Taman Topi Bogor|32,9
+999|jack|2022-03-01|10:04|citayam|33
+333|star|2022-03-01|09:18|citayam|33
+333|star|2022-03-01|10:21|citayam|33
